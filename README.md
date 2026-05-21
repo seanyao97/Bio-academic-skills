@@ -66,7 +66,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/你的用户名/bio-academic-skills.git
+git clone https://github.com/seanyao97/bio-academic-skills.git
 cd bio-academic-skills
 
 # 安装所有技能
