@@ -5,7 +5,7 @@
 **微生物学与生命科学学术研究技能集**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Skills](https://img.shields.io/badge/Skills-5-blue.svg)](./skills)
+[![Skills](https://img.shields.io/badge/Skills-6-blue.svg)](./skills)
 [![Status](https://img.shields.io/badge/Status-Beta-green.svg)](./)
 
 *专为微生物学、病原生物学、分子生物学研究者设计的AI辅助工具*
@@ -52,9 +52,9 @@
 | 技能 | 状态 | 功能描述 | 触发关键词 |
 |------|------|---------|-----------|
 | `bio-search` | Beta | 微生物学文献多源搜索（PubMed, bioRxiv, CrossRef） | "找文献", "搜索PubMed", "微生物文献" |
-| `bio-figure` | Draft | PNAS/eLife风格科研绘图（显微镜、电泳、序列图） | "画图", "发表级图", "PNAS风格" |
-| `bio-writing` | Draft | 微生物学论文写作（Introduction, Results, Discussion） | "写引言", "论文写作", "润色" |
-| `bio-stats` | Draft | 微生物学统计报告（t检验、ANOVA、多样性分析） | "统计", "差异分析", "alpha多样性" |
+| `bio-figure` | Beta | PNAS/eLife风格科研绘图（显微镜、电泳、序列图） | "画图", "发表级图", "PNAS风格" |
+| `bio-writing` | Beta | 微生物学论文写作（Introduction, Results, Discussion） | "写引言", "论文写作", "润色" |
+| `bio-stats` | Beta | 微生物学统计报告（t检验、ANOVA、多样性分析） | "统计", "差异分析", "alpha多样性" |
 | `bio-response` | Beta | 审稿意见回复（针对NC/eLife/PNAS） | "回复审稿人", "修改说明" |
 | `bio-paper2ppt` | Beta | 微生物学论文转中文PPT | "论文转PPT", "组会汇报" |
 
